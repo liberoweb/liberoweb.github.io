@@ -4,15 +4,17 @@ title: Allarmi dispositivo
 permalink: /allarmi/allarmi-dispositivo
 nav_order: 1
 parent: Allarmi
+
+deviceAlarms: device-alarms.jpg
 ---
 
 # Allarmi dispositivo
 
 La schermata *Allarmi dispositivo* raccoglie gli **allarmi provenienti da device** o nodo del campo. Questa tipologia di allarmi può essere geolocalizzata, essendo associata ad un dispositivo di un'utenza.
 
-Potete cercare un allarme in relazione all'utenza da cui proviene tramite il campo di ricerca [1] e filtrare gli allarmi in base al loro stato.
+Potete cercare un allarme in relazione all'utenza da cui proviene tramite il campo di ricerca e filtrare gli allarmi in base al loro stato.
 
-![alt](missing.jpg)
+![Gli allarmi di dispositivo](/assets/img/{{ page.deviceAlarms }})
 {: .py-5 }
 
 Tramite il bottone *Esporta* potete esportare gli allarmi nei formati *.csv, .xls e .xlsx*.

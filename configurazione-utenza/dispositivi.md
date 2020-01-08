@@ -24,7 +24,7 @@ Ogni dispositivo è rappresentato dalle sue informazioni di base:
   * Indirizzo Mbus
   * Baudrate
 
-Tramite il bottone contestuale [1] è possibile gestire le funzioni associate al dispositivo, configurarne gli allarmi, eseguire un test [verifica che il dispositivo sia configurato correttamente], rimuovere il dispositivo o cambiarlo di ordine.
+Tramite il bottone contestuale [1] è possibile gestire le funzioni associate al dispositivo, configurarne gli allarmi, eseguire un test per verificare la correttezza della configurazione, rimuovere il dispositivo o cambiarlo di ordine.
 
 Facendo click su *Aggiungi dispositivo* appariranno i campi in cui inserire matricola, modello, indirizzo Mbus e baudrate del nuovo dispositivo, una volta inseriti questi dati fate click sul bottone *salva* per inserire il dispositivo. Il nuovo dispositivo comparirà quindi nella lista dispositivo e potrete procedere con le configurazioni avanzate.
 

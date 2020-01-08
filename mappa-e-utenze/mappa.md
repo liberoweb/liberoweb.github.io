@@ -12,6 +12,7 @@ iconSupervisorInactive: icon-supervisor-inactive.jpg
 iconActA: icon-active-acknowledged.jpg
 iconActNa: icon-active-unacknowledged.jpg
 iconNsNa: icon-unsilenced-unacknowledged.jpg
+iconUaNa: icon-inactive-unacknowledged.jpg
 ---
 
 # Mappa
@@ -33,6 +34,7 @@ Le utenze sono rappresentate da marker colorati che ne distinguono lo stato e la
 
   * <img src="/assets/img/icons/{{ page.iconSupervisor }}" width="16"> Utenza attiva.
   * <img src="/assets/img/icons/{{ page.iconSupervisorInactive }}" width="16"> Utenza disattivata.
+  * <img src="/assets/img/icons/{{ page.iconUaNa }}" width="16"> Utenza con allarme disattivato e non riconosciuto.
   * <img src="/assets/img/icons/{{ page.iconActA }}" width="16"> Utenza con allarme attivo riconosciuto.
   * <img src="/assets/img/icons/{{ page.iconActNa }}" width="16"> Utenza con allarme attivo non riconosciuto.
   * <img src="/assets/img/icons/{{ page.iconNsNa }}" width="16"> Utenza con allarme attivo non silenziato e non riconosciuto.

@@ -7,6 +7,7 @@ parent: Consumi
 
 filters: cons_filters.jpg
 details: cons_details.jpg
+graph: consumption-graph.jpg
 ---
 
 #  Visualizzazione dei consumi
@@ -34,9 +35,9 @@ Una volta impostati i parametri desiderati fate click sul bottone *Ricerca* per 
 
 ## Visualizzazione dei dati di consumo
 
-I dati di consumo e consumo real time saranno visualizzati in forma grafica. Per ciascun insieme di dati sarà possibile passare ad una visualizzazione tabellare tramite l'apposito switch [1] e procedere all'esportazione dei dati tramite il bottone *Etichetta bottone* [2].
+I dati di consumo e consumo real time saranno visualizzati in forma grafica. Per ciascun insieme di dati sarà possibile passare ad una visualizzazione tabellare tramite l'apposito switch [1] e procedere all'esportazione dei dati tramite il bottone *Esporta* [2].
 
 I dati possono essere stampati o esportati nei seguenti formati: .pdf, .png, .jpeg, .svg, .csv.
 
-![Visualizzazione dei dati di consumo](missing.jpg)
+![Visualizzazione dei dati di consumo](/assets/img/{{page.graph}})
 {: .py-5 }

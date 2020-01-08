@@ -17,6 +17,4 @@ Per definire e gestire i nodi del sistema navigate a *Impostazioni / Utenze / No
 
 Per **aggiungere un nuovo nodo** fate click sul bottone di aggiunta contestuale e selezionate la voce *Nuovo nodo*, procedete quindi a specificarne nome ed indirizzo.
 
-Per effettuare la **rilevazione automatica dei nodi** fate click sul bottone di aggiunta contestuale e selezionate la voce *Node discovery* [Cosa succede poi?].
-
-> trova automaticamente nuovi nodi sulla rete e ti chiede se aggiungerli
+Per effettuare la **rilevazione automatica dei nodi** della rete fate click sul bottone di aggiunta contestuale e selezionate la voce *Node discovery*.

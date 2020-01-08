@@ -27,4 +27,4 @@ Nella tab **dettagli** potete visualizzare e modificare i dettagli anagrafici e 
 
 Nella tab **utenze correlate** potete definire quali utenze sono visibili all'utente. Tramite il bottone *Aggiungi* è possibile associare utenze e gruppi di utenze all'utente tramite l'apposita finestra modale.
 
-Nella tab **Hmi** è possibile definire +++ con quale utente hmi esegue l'accesso a uno specifico layout hmi
+Nella tab **Hmi** è possibile specificare a quali layout Hmi ha accesso l'utente e con quale utente hmi.

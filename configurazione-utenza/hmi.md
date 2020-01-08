@@ -8,4 +8,4 @@ parent: Configurazione utenza
 
 # HMI
 
-La tab *HMI* permette di visualizzare e modificare il layout HMI dell'utenza e avviare l'HMI.
+La tab *HMI* permette di avviare l'HMI dell'utenza e modificare il rispettivo layout di riferimento. 
